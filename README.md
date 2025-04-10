@@ -1,6 +1,6 @@
 # IMT-XGB: Reproduce Results
 
-This script reproduces the main results from the paper "Integrated Missingness-and-Time-Aware Multi-task XGBoost (IMT-XGB): A Novel Machine Learning Approach for Medicare Claims Data".
+This script reproduces the main results from the paper "Integrated Missingness-and-Time-Aware Multi-task XGBoost (IMT-XGB): A Novel Machine Learning Approach for Claims Data".
 
 ## Usage
 
